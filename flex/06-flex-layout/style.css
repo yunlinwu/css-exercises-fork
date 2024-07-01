@@ -65,3 +65,7 @@ a {
 .buttons {
   margin: auto;
 }
+
+ul {
+  padding: 0px;
+}
